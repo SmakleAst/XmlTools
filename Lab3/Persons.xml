@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<EmployeeList>
+  <Employee>
+    <FullName>Иванов И.И.</FullName>
+    <BirthYear>1985</BirthYear>
+    <Address>ул. Ленина, 123</Address>
+    <Phone>+7 (123) 456-78-90</Phone>
+    <WorkList>
+      <Work1>
+        <Name>Компания "Альфа"</Name>
+        <StartDate>2005-05-15</StartDate>
+        <EndDate></EndDate>
+        <Department>Отдел продаж</Department>
+        <Salary>100000</Salary>
+      </Work1>
+      <Work2>
+        <Name>ООО "Бета"</Name>
+        <StartDate>2011-02-01</StartDate>
+        <EndDate></EndDate>
+        <Department>Отдел тестирования</Department>
+        <Salary>110000</Salary>
+      </Work2>
+    </WorkList>
+    <SalaryList>
+      <Salary1>
+        <Year>2022</Year>
+        <Mounth>Январь</Mounth>
+        <Size>50000</Size>
+      </Salary1>
+      <Salary2>
+        <Year>2022</Year>
+        <Mounth>Февраль</Mounth>
+        <Size>52000</Size>
+      </Salary2>
+    </SalaryList>
+  </Employee>
+  <Employee>
+    <FullName>Петров П.П.</FullName>
+    <BirthYear>1990</BirthYear>
+    <Address>ул. Пушкина, 456</Address>
+    <Phone>+7 (987) 654-32-10</Phone>
+    <WorkList>
+      <Work1>
+        <Name>ООО "Гамма"</Name>
+        <StartDate>2018-05-01</StartDate>
+        <EndDate></EndDate>
+        <Department>Отдел разработки</Department>
+        <Salary>120000</Salary>
+      </Work1>
+      <Work2>
+        <Name>Компания "Дельта"</Name>
+        <StartDate>2018-05-01</StartDate>
+        <EndDate></EndDate>
+        <Department>Отдел тестирования</Department>
+        <Salary>130000</Salary>
+      </Work2>
+    </WorkList>
+    <SalaryList>
+      <Salary1>
+        <Year>2022</Year>
+        <Mounth>Январь</Mounth>
+        <Size>55000</Size>
+      </Salary1>
+      <Salary2>
+        <Year>2022</Year>
+        <Mounth>Февраль</Mounth>
+        <Size>57000</Size>
+      </Salary2>
+    </SalaryList>
+  </Employee>
+  <Employee>
+    <FullName>Сидоров С.С.</FullName>
+    <BirthYear>1982</BirthYear>
+    <Address>ул. Гагарина, 789</Address>
+    <Phone>+7 (111) 222-33-44</Phone>
+    <WorkList>
+      <Work1>
+        <Name>ООО "Эпсилон"</Name>
+        <StartDate>2004-09-10</StartDate>
+        <EndDate>2009-12-25</EndDate>
+        <Department>Отдел продаж</Department>
+        <Salary>140000</Salary>
+      </Work1>
+      <Work2>
+        <Name>Компания "Зета"</Name>
+        <StartDate>2002-02-20</StartDate>
+        <EndDate>2009-08-15</EndDate>
+        <Department>Отдел маркетинга</Department>
+        <Salary>150000</Salary>
+      </Work2>
+    </WorkList>
+    <SalaryList>
+      <Salary1>
+        <Year>2022</Year>
+        <Mounth>Январь</Mounth>
+        <Size>48000</Size>
+      </Salary1>
+      <Salary2>
+        <Year>2022</Year>
+        <Mounth>Февраль</Mounth>
+        <Size>49500</Size>
+      </Salary2>
+    </SalaryList>
+  </Employee>
+</EmployeeList>

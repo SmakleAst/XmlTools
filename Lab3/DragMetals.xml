@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Metall FromDate="20210101" ToDate="20210201" name="Precious metals quotations">
+  <Record Date="01.01.2021" Code="1">
+    <Buy>4491,66</Buy>
+    <Sell>4491,66</Sell>
+  </Record>
+  <Record Date="01.01.2021" Code="2">
+    <Buy>62,48</Buy>
+    <Sell>62,48</Sell>
+  </Record>
+  <Record Date="01.01.2021" Code="3">
+    <Buy>2553,29</Buy>
+    <Sell>2553,29</Sell>
+  </Record>
+  <Record Date="01.01.2021" Code="4">
+    <Buy>5629,12</Buy>
+    <Sell>5629,12</Sell>
+  </Record>
+  <Record Date="12.01.2021" Code="1">
+    <Buy>4426,84</Buy>
+    <Sell>4426,84</Sell>
+  </Record>
+  <Record Date="12.01.2021" Code="2">
+    <Buy>63,83</Buy>
+    <Sell>63,83</Sell>
+  </Record>
+  <Record Date="12.01.2021" Code="3">
+    <Buy>2498,75</Buy>
+    <Sell>2498,75</Sell>
+  </Record>
+  <Record Date="12.01.2021" Code="4">
+    <Buy>5653,93</Buy>
+    <Sell>5653,93</Sell>
+  </Record>
+  <Record Date="13.01.2021" Code="1">
+    <Buy>4445,57</Buy>
+    <Sell>4445,57</Sell>
+  </Record>
+  <Record Date="13.01.2021" Code="2">
+    <Buy>59,74</Buy>
+    <Sell>59,74</Sell>
+  </Record>
+  <Record Date="13.01.2021" Code="3">
+    <Buy>2540,53</Buy>
+    <Sell>2540,53</Sell>
+  </Record>
+  <Record Date="13.01.2021" Code="4">
+    <Buy>5687,54</Buy>
+    <Sell>5687,54</Sell>
+  </Record>
+  <Record Date="14.01.2021" Code="1">
+    <Buy>4378,94</Buy>
+    <Sell>4378,94</Sell>
+  </Record>
+  <Record Date="14.01.2021" Code="2">
+    <Buy>60,34</Buy>
+    <Sell>60,34</Sell>
+  </Record>
+  <Record Date="14.01.2021" Code="3">
+    <Buy>2541,22</Buy>
+    <Sell>2541,22</Sell>
+  </Record>
+  <Record Date="14.01.2021" Code="4">
+    <Buy>5652,15</Buy>
+    <Sell>5652,15</Sell>
+  </Record>
+  <Record Date="15.01.2021" Code="1">
+    <Buy>4366,17</Buy>
+    <Sell>4366,17</Sell>
+  </Record>
+  <Record Date="15.01.2021" Code="2">
+    <Buy>60,11</Buy>
+    <Sell>60,11</Sell>
+  </Record>
+  <Record Date="15.01.2021" Code="3">
+    <Buy>2631,21</Buy>
+    <Sell>2631,21</Sell>
+  </Record>
+  <Record Date="15.01.2021" Code="4">
+    <Buy>5658,65</Buy>
+    <Sell>5658,65</Sell>
+  </Record>
+  <Record Date="16.01.2021" Code="1">
+    <Buy>4383,49</Buy>
+    <Sell>4383,49</Sell>
+  </Record>
+  <Record Date="16.01.2021" Code="2">
+    <Buy>59,7</Buy>
+    <Sell>59,7</Sell>
+  </Record>
+  <Record Date="16.01.2021" Code="3">
+    <Buy>2589,17</Buy>
+    <Sell>2589,17</Sell>
+  </Record>
+  <Record Date="16.01.2021" Code="4">
+    <Buy>5655,97</Buy>
+    <Sell>5655,97</Sell>
+  </Record>
+  <Record Date="19.01.2021" Code="1">
+    <Buy>4361,69</Buy>
+    <Sell>4361,69</Sell>
+  </Record>
+  <Record Date="19.01.2021" Code="2">
+    <Buy>60,04</Buy>
+    <Sell>60,04</Sell>
+  </Record>
+  <Record Date="19.01.2021" Code="3">
+    <Buy>2566,19</Buy>
+    <Sell>2566,19</Sell>
+  </Record>
+  <Record Date="19.01.2021" Code="4">
+    <Buy>5650,84</Buy>
+    <Sell>5650,84</Sell>
+  </Record>
+  <Record Date="20.01.2021" Code="1">
+    <Buy>4368,68</Buy>
+    <Sell>4368,68</Sell>
+  </Record>
+  <Record Date="20.01.2021" Code="2">
+    <Buy>58,94</Buy>
+    <Sell>58,94</Sell>
+  </Record>
+  <Record Date="20.01.2021" Code="3">
+    <Buy>2607,32</Buy>
+    <Sell>2607,32</Sell>
+  </Record>
+  <Record Date="20.01.2021" Code="4">
+    <Buy>5650,77</Buy>
+    <Sell>5650,77</Sell>
+  </Record>
+  <Record Date="21.01.2021" Code="1">
+    <Buy>4373,92</Buy>
+    <Sell>4373,92</Sell>
+  </Record>
+  <Record Date="21.01.2021" Code="2">
+    <Buy>59,66</Buy>
+    <Sell>59,66</Sell>
+  </Record>
+  <Record Date="21.01.2021" Code="3">
+    <Buy>2584,82</Buy>
+    <Sell>2584,82</Sell>
+  </Record>
+  <Record Date="21.01.2021" Code="4">
+    <Buy>5589,45</Buy>
+    <Sell>5589,45</Sell>
+  </Record>
+  <Record Date="22.01.2021" Code="1">
+    <Buy>4405,56</Buy>
+    <Sell>4405,56</Sell>
+  </Record>
+  <Record Date="22.01.2021" Code="2">
+    <Buy>59,67</Buy>
+    <Sell>59,67</Sell>
+  </Record>
+  <Record Date="22.01.2021" Code="3">
+    <Buy>2644,3</Buy>
+    <Sell>2644,3</Sell>
+  </Record>
+  <Record Date="22.01.2021" Code="4">
+    <Buy>5630,64</Buy>
+    <Sell>5630,64</Sell>
+  </Record>
+  <Record Date="23.01.2021" Code="1">
+    <Buy>4431,54</Buy>
+    <Sell>4431,54</Sell>
+  </Record>
+  <Record Date="23.01.2021" Code="2">
+    <Buy>61,84</Buy>
+    <Sell>61,84</Sell>
+  </Record>
+  <Record Date="23.01.2021" Code="3">
+    <Buy>2632,24</Buy>
+    <Sell>2632,24</Sell>
+  </Record>
+  <Record Date="23.01.2021" Code="4">
+    <Buy>5649,4</Buy>
+    <Sell>5649,4</Sell>
+  </Record>
+  <Record Date="26.01.2021" Code="1">
+    <Buy>4465,88</Buy>
+    <Sell>4465,88</Sell>
+  </Record>
+  <Record Date="26.01.2021" Code="2">
+    <Buy>60,94</Buy>
+    <Sell>60,94</Sell>
+  </Record>
+  <Record Date="26.01.2021" Code="3">
+    <Buy>2661,81</Buy>
+    <Sell>2661,81</Sell>
+  </Record>
+  <Record Date="26.01.2021" Code="4">
+    <Buy>5699,07</Buy>
+    <Sell>5699,07</Sell>
+  </Record>
+  <Record Date="27.01.2021" Code="1">
+    <Buy>4506,49</Buy>
+    <Sell>4506,49</Sell>
+  </Record>
+  <Record Date="27.01.2021" Code="2">
+    <Buy>62,34</Buy>
+    <Sell>62,34</Sell>
+  </Record>
+  <Record Date="27.01.2021" Code="3">
+    <Buy>2643,29</Buy>
+    <Sell>2643,29</Sell>
+  </Record>
+  <Record Date="27.01.2021" Code="4">
+    <Buy>5653,78</Buy>
+    <Sell>5653,78</Sell>
+  </Record>
+  <Record Date="28.01.2021" Code="1">
+    <Buy>4454,61</Buy>
+    <Sell>4454,61</Sell>
+  </Record>
+  <Record Date="28.01.2021" Code="2">
+    <Buy>61,28</Buy>
+    <Sell>61,28</Sell>
+  </Record>
+  <Record Date="28.01.2021" Code="3">
+    <Buy>2622,49</Buy>
+    <Sell>2622,49</Sell>
+  </Record>
+  <Record Date="28.01.2021" Code="4">
+    <Buy>5592,38</Buy>
+    <Sell>5592,38</Sell>
+  </Record>
+  <Record Date="29.01.2021" Code="1">
+    <Buy>4506,07</Buy>
+    <Sell>4506,07</Sell>
+  </Record>
+  <Record Date="29.01.2021" Code="2">
+    <Buy>61,69</Buy>
+    <Sell>61,69</Sell>
+  </Record>
+  <Record Date="29.01.2021" Code="3">
+    <Buy>2589,03</Buy>
+    <Sell>2589,03</Sell>
+  </Record>
+  <Record Date="29.01.2021" Code="4">
+    <Buy>5636,11</Buy>
+    <Sell>5636,11</Sell>
+  </Record>
+  <Record Date="30.01.2021" Code="1">
+    <Buy>4542,04</Buy>
+    <Sell>4542,04</Sell>
+  </Record>
+  <Record Date="30.01.2021" Code="2">
+    <Buy>61,79</Buy>
+    <Sell>61,79</Sell>
+  </Record>
+  <Record Date="30.01.2021" Code="3">
+    <Buy>2664,87</Buy>
+    <Sell>2664,87</Sell>
+  </Record>
+  <Record Date="30.01.2021" Code="4">
+    <Buy>5712,18</Buy>
+    <Sell>5712,18</Sell>
+  </Record>
+</Metall>

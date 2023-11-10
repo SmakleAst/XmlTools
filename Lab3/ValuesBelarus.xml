@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ValCurs ID="R01090B" DateRange1="02.01.2021" DateRange2="20.02.2021" name="Foreign Currency Market Dynamic">
+  <Record Date="12.01.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,8865</Value>
+    <VunitRate>28,8865</VunitRate>
+  </Record>
+  <Record Date="13.01.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,7843</Value>
+    <VunitRate>28,7843</VunitRate>
+  </Record>
+  <Record Date="14.01.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,5995</Value>
+    <VunitRate>28,5995</VunitRate>
+  </Record>
+  <Record Date="15.01.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,7077</Value>
+    <VunitRate>28,7077</VunitRate>
+  </Record>
+  <Record Date="16.01.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,7511</Value>
+    <VunitRate>28,7511</VunitRate>
+  </Record>
+  <Record Date="19.01.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,9558</Value>
+    <VunitRate>28,9558</VunitRate>
+  </Record>
+  <Record Date="20.01.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,9274</Value>
+    <VunitRate>28,9274</VunitRate>
+  </Record>
+  <Record Date="21.01.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,9084</Value>
+    <VunitRate>28,9084</VunitRate>
+  </Record>
+  <Record Date="22.01.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,8958</Value>
+    <VunitRate>28,8958</VunitRate>
+  </Record>
+  <Record Date="23.01.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>29,1774</Value>
+    <VunitRate>29,1774</VunitRate>
+  </Record>
+  <Record Date="26.01.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>29,2513</Value>
+    <VunitRate>29,2513</VunitRate>
+  </Record>
+  <Record Date="27.01.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>29,3149</Value>
+    <VunitRate>29,3149</VunitRate>
+  </Record>
+  <Record Date="28.01.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>29,0346</Value>
+    <VunitRate>29,0346</VunitRate>
+  </Record>
+  <Record Date="29.01.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>29,0418</Value>
+    <VunitRate>29,0418</VunitRate>
+  </Record>
+  <Record Date="30.01.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>29,0431</Value>
+    <VunitRate>29,0431</VunitRate>
+  </Record>
+  <Record Date="02.02.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,8177</Value>
+    <VunitRate>28,8177</VunitRate>
+  </Record>
+  <Record Date="03.02.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,8755</Value>
+    <VunitRate>28,8755</VunitRate>
+  </Record>
+  <Record Date="04.02.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,8379</Value>
+    <VunitRate>28,8379</VunitRate>
+  </Record>
+  <Record Date="05.02.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,7343</Value>
+    <VunitRate>28,7343</VunitRate>
+  </Record>
+  <Record Date="06.02.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,5951</Value>
+    <VunitRate>28,5951</VunitRate>
+  </Record>
+  <Record Date="09.02.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,3880</Value>
+    <VunitRate>28,388</VunitRate>
+  </Record>
+  <Record Date="10.02.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,4866</Value>
+    <VunitRate>28,4866</VunitRate>
+  </Record>
+  <Record Date="11.02.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,4442</Value>
+    <VunitRate>28,4442</VunitRate>
+  </Record>
+  <Record Date="12.02.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,6483</Value>
+    <VunitRate>28,6483</VunitRate>
+  </Record>
+  <Record Date="13.02.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,6281</Value>
+    <VunitRate>28,6281</VunitRate>
+  </Record>
+  <Record Date="16.02.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,4398</Value>
+    <VunitRate>28,4398</VunitRate>
+  </Record>
+  <Record Date="17.02.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,3958</Value>
+    <VunitRate>28,3958</VunitRate>
+  </Record>
+  <Record Date="18.02.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,4759</Value>
+    <VunitRate>28,4759</VunitRate>
+  </Record>
+  <Record Date="19.02.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,4749</Value>
+    <VunitRate>28,4749</VunitRate>
+  </Record>
+  <Record Date="20.02.2021" Id="R01090B">
+    <Nominal>1</Nominal>
+    <Value>28,5242</Value>
+    <VunitRate>28,5242</VunitRate>
+  </Record>
+</ValCurs>
